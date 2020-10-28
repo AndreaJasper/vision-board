@@ -1,0 +1,92 @@
+/*** GENERAL ***/
+body {
+    background: #E8E8E8;
+    font-family: 'Monterrat', sans-serif;
+}
+
+#vision-board {
+    background-image: url("../img/background.png");
+    width: 1200px;
+    height: 850px;
+    margin: 70px auto;
+    font-size: 20px;
+}
+
+.light-bg {
+    background: #fff;
+}
+
+.dark-bg {
+    background: #3B3B3B;
+}
+
+/*** GRID ***/
+
+.block {
+    float: left;
+    width: 400px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.small-block {
+    height: 210px;
+    padding: 19px 40px;
+}
+
+.large-block {
+    height: 430px;
+    padding: 45px 40px;
+}
+
+/*** TEXT ***/
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.title {
+    font-family: 'Permanent Marker', script;
+    color: #fff;
+    font-size: 30px;
+    margin: 0;
+}
+
+p.title strong {
+    font-family: 'Monterrat', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+p span {
+    background: #FFF44F;
+    padding: 5px 10px;
+}
+
+p strong {
+    font-size: 38px;
+    text-transform: none;
+}
+
+.md-text {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+strong.lg-text {
+    font-size: 38px;
+}
+
+/*** IMAGES ***/
