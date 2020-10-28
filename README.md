@@ -39,4 +39,4 @@ Project Link: [https://github.com/AndreaJasper/vision-board](https://github.com/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: img/screenshot.png
+[product-screenshot]: img/new-screenshot.png
